@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import ListaProductos from "./componentes/ListaProductos";
 import PanelEstadisticas from "./componentes/PanelEstadisticas";
-
+import './App.css';
 
 
 function App() {
